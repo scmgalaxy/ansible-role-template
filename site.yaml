@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: web
   roles:
     - role: rajesh.role1
     - role: bennojoy.mysql
